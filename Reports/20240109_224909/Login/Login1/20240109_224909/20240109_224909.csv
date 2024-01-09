@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login1,Chrome 120.0.0.0,,,2024-01-09 22:49:14,2024-01-09 22:50:05,50.877s,PASSED
+,,,,,,,
+Test Cases/Login Standard User,Chrome 120.0.0.0,,,2024-01-09 22:49:15,2024-01-09 22:49:27,12.563s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-09 22:49:15,2024-01-09 22:49:18,2.432s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 120.0.0.0,,,2024-01-09 22:49:18,2024-01-09 22:49:19,1.750s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_user-name""), ""standard_user"")",Chrome 120.0.0.0,,,2024-01-09 22:49:19,2024-01-09 22:49:25,6.169s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Chrome 120.0.0.0,,,2024-01-09 22:49:25,2024-01-09 22:49:26,0.529s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_login-button""))",Chrome 120.0.0.0,,,2024-01-09 22:49:26,2024-01-09 22:49:27,0.568s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Swag Labs/div_Swag Labs""))",Chrome 120.0.0.0,,,2024-01-09 22:49:27,2024-01-09 22:49:27,0.540s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-09 22:49:27,2024-01-09 22:49:27,0.210s,PASSED
+,,,,,,,
+Test Cases/Login Locked User,Chrome 120.0.0.0,,,2024-01-09 22:49:27,2024-01-09 22:50:05,38.040s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,2024-01-09 22:49:28,2024-01-09 22:49:29,1.565s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 120.0.0.0,,,2024-01-09 22:49:29,2024-01-09 22:49:31,1.896s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_user-name""), ""locked_out_user"")",Chrome 120.0.0.0,,,2024-01-09 22:49:31,2024-01-09 22:49:34,2.753s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Swag Labs/input_password""), ""qcu24s4901FyWDTwXGr6XA=="")",Chrome 120.0.0.0,,,2024-01-09 22:49:34,2024-01-09 22:49:34,0.612s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_login-button""))",Chrome 120.0.0.0,,,2024-01-09 22:49:34,2024-01-09 22:49:35,0.534s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Swag Labs/h3_Epic sadface Sorry, this user has been l_a91fd7""))",Chrome 120.0.0.0,,,2024-01-09 22:49:35,2024-01-09 22:50:05,30.202s,PASSED
+closeBrowser(),Chrome 120.0.0.0,,,2024-01-09 22:50:05,2024-01-09 22:50:05,0.225s,PASSED
