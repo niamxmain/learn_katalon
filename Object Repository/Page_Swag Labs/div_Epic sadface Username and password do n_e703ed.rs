@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Swag Labs</name>
+   <name>div_Epic sadface Username and password do n_e703ed</name>
    <tag></tag>
-   <elementGuidId>1b917ec5-4a80-4aee-8788-713627a3602c</elementGuidId>
+   <elementGuidId>a14c1887-8eec-4c26-a60d-b691b18ce966</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='header_container']/div/div[2]/div</value>
+         <value>//div[@id='root']/div/div[2]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.app_logo</value>
+         <value>div.login_wrapper-inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,54 +22,54 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1ed35c64-30e3-4ab6-9dd5-f662b96de447</webElementGuid>
+      <webElementGuid>9d893ec7-53c1-4a41-a48c-0548c06e5c06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>app_logo</value>
-      <webElementGuid>51b5b826-be5a-4102-8270-ff4dc398aec6</webElementGuid>
+      <value>login_wrapper-inner</value>
+      <webElementGuid>9b64e72a-6530-4f61-82e1-6e9b7106f9a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Swag Labs</value>
-      <webElementGuid>151d2607-ce5c-4248-8f1b-4415fbc70202</webElementGuid>
+      <value>Epic sadface: Username and password do not match any user in this service</value>
+      <webElementGuid>7f282f6b-bda3-42c0-be30-acf9f7f6bd3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;header_container&quot;)/div[@class=&quot;primary_header&quot;]/div[@class=&quot;header_label&quot;]/div[@class=&quot;app_logo&quot;]</value>
-      <webElementGuid>ef2ded4f-3618-4854-835f-3a4be5b9f19f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;login_container&quot;]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_wrapper-inner&quot;]</value>
+      <webElementGuid>fc3dbf71-e61b-47c5-b6e0-e0cfcff9754c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='header_container']/div/div[2]/div</value>
-      <webElementGuid>849eb1de-8a1b-4b65-b89b-788b48c6f5f0</webElementGuid>
+      <value>//div[@id='root']/div/div[2]/div</value>
+      <webElementGuid>c0811773-7264-478a-89e4-b5b6f1ef1c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/div/div/div[2]/div</value>
-      <webElementGuid>f4dce959-ec8d-46b3-8c11-a7b4db26773e</webElementGuid>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>d72294ba-8457-4422-b91d-5e90e67e7b4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Swag Labs' or . = 'Swag Labs')]</value>
-      <webElementGuid>40abc1ff-f1e9-43df-a21e-eadba3c7ed82</webElementGuid>
+      <value>//div[(text() = 'Epic sadface: Username and password do not match any user in this service' or . = 'Epic sadface: Username and password do not match any user in this service')]</value>
+      <webElementGuid>990b260d-c262-4d0d-8d86-75b5e199d6c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
