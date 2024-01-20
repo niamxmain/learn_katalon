@@ -27,7 +27,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_pa
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_login-button'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/h3_Epic sadface Sorry, this user has been l_a91fd7'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Swag Labs/h3_Epic sadface Sorry'))
 
 WebUI.closeBrowser()
 

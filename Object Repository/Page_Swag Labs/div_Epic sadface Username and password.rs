@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h3_Epic sadface Sorry, this user has been l_a91fd7</name>
+   <name>div_Epic sadface Username and password</name>
    <tag></tag>
-   <elementGuidId>52ada9b1-1134-4eb3-8fbb-ed803767ec3b</elementGuidId>
+   <elementGuidId>a14c1887-8eec-4c26-a60d-b691b18ce966</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='login_button_container']/div/form/div[3]/h3</value>
+         <value>//div[@id='root']/div/div[2]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>h3</value>
+         <value>div.login_wrapper-inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,55 +21,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h3</value>
-      <webElementGuid>aef346e5-abda-4c42-97f5-9382d95f5414</webElementGuid>
+      <value>div</value>
+      <webElementGuid>9d893ec7-53c1-4a41-a48c-0548c06e5c06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-test</name>
+      <name>class</name>
       <type>Main</type>
-      <value>error</value>
-      <webElementGuid>f5579489-2e26-4c85-bfbc-ace89dbce9f7</webElementGuid>
+      <value>login_wrapper-inner</value>
+      <webElementGuid>9b64e72a-6530-4f61-82e1-6e9b7106f9a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Epic sadface: Sorry, this user has been locked out.</value>
-      <webElementGuid>91fdcee2-eca7-415f-9873-9571ddc9f23b</webElementGuid>
+      <value>Epic sadface: Username and password do not match any user in this service</value>
+      <webElementGuid>7f282f6b-bda3-42c0-be30-acf9f7f6bd3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login_button_container&quot;)/div[@class=&quot;login-box&quot;]/form[1]/div[@class=&quot;error-message-container error&quot;]/h3[1]</value>
-      <webElementGuid>90e229f1-9424-4ab9-a0e9-e9be146c42d2</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;login_container&quot;]/div[@class=&quot;login_wrapper&quot;]/div[@class=&quot;login_wrapper-inner&quot;]</value>
+      <webElementGuid>fc3dbf71-e61b-47c5-b6e0-e0cfcff9754c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='login_button_container']/div/form/div[3]/h3</value>
-      <webElementGuid>7d8568b0-2404-41e1-9b3d-f19ec17d749d</webElementGuid>
+      <value>//div[@id='root']/div/div[2]/div</value>
+      <webElementGuid>c0811773-7264-478a-89e4-b5b6f1ef1c8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h3</value>
-      <webElementGuid>da2a9f63-952a-48a5-8605-6c9a870ad35a</webElementGuid>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>d72294ba-8457-4422-b91d-5e90e67e7b4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h3[(text() = 'Epic sadface: Sorry, this user has been locked out.' or . = 'Epic sadface: Sorry, this user has been locked out.')]</value>
-      <webElementGuid>900cf617-891e-4e3b-b02b-ecce2a73b92e</webElementGuid>
+      <value>//div[(text() = 'Epic sadface: Username and password do not match any user in this service' or . = 'Epic sadface: Username and password do not match any user in this service')]</value>
+      <webElementGuid>990b260d-c262-4d0d-8d86-75b5e199d6c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
